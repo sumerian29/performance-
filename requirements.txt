@@ -4,3 +4,4 @@ reportlab
 openpyxl
 pyinstaller
 plotly
+scikit-learn
