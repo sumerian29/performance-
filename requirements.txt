@@ -6,3 +6,4 @@ pyinstaller
 plotly
 scikit-learn
 fpdf
+numpy
